@@ -1,13 +1,25 @@
 <div align="center">
-  <div style="width: 130px; height: 130px; border-radius: 50%; overflow: hidden; display: inline-block;">
-    <img src="https://avatars.githubusercontent.com/u/134953040?v=4" style="width: 100%; height: 100%; object-fit: cover;" alt="Profile Picture">
-  </div>
-  
-  <h1> Olá, bem-vindo(a) ao meu espaço ♡ </h1>
-  <p><i> Desenvolvendo soluções com dedicação, organização e um toque de delicadeza. </i></p>
-  
-  <img src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png" width="400">
+
+  <img
+    src="https://avatars.githubusercontent.com/u/134953040?v=4"
+    width="130"
+    height="130"
+    style="border-radius: 50%;"
+    alt="Profile Picture"
+  />
+
+  <h1>Olá, bem-vindo(a) ao meu espaço ♡</h1>
+
+  <p><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
+
+  <img
+    src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png"
+    width="250"
+    alt="Divisor decorativo"
+  />
+
 </div>
+
 
 <br>
 
