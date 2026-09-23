@@ -14,7 +14,7 @@
 
   <img
     src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png"
-    width="100%"
+    width="50%"
     alt="Divisor decorativo"
   />
 
