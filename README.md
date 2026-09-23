@@ -11,18 +11,13 @@
 
   <p><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
 
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png"
-          width="400"
-          alt="Divisor decorativo"
-        />
-      </td>
-    </tr>
-  </table>
 
+   <img
+      src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png"
+      width="400"
+      style="border: -120px 0px !important"
+      alt="Divisor decorativo"
+    />
 </div>
 
 
