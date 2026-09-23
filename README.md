@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/134953040?v=4" width="130" style="border-radius: 50%;" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/134953040?v=4" width="130" border-radius = "50%" alt="Profile Picture">
   
   <h1> Olá, bem-vindo(a) ao meu espaço ♡ </h1>
   <p><i> Desenvolvendo soluções com dedicação, organização e um toque de delicadeza. </i></p>
