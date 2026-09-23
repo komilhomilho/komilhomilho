@@ -1,3 +1,9 @@
+<style>
+  #divisor{
+    margin: -120px auto;
+  }
+</style>
+
 <div align="center">
 
   <img
@@ -13,6 +19,7 @@
   <p><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
 
   <img
+    id ="divisor"
     src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png"
     width="50%"
     height= "100px"
