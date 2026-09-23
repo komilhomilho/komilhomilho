@@ -1,12 +1,4 @@
 <div align="center">
-
-  <img
-    src="https://avatars.githubusercontent.com/u/134953040?v=4"
-    width="130"
-    height="130"
-    alt="Profile Picture"
-  />
-
   <h1>Olá, bem-vindo(a) ao meu espaço ♡</h1>
 
   <p><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
