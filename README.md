@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[ INSERIR LINK DA SUA FOTO OU AVATAR AQUI ]" width="130" style="border-radius: 50%;" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/134953040?v=4" width="130" style="border-radius: 50%;" alt="Profile Picture">
   
   <h1> Olá, bem-vindo(a) ao meu espaço ♡ </h1>
   <p><i> Desenvolvendo soluções com dedicação, organização e um toque de delicadeza. </i></p>
@@ -7,13 +7,19 @@
   <br>
   
   <!-- Você pode inserir uma barra divisória em formato de imagem fofa e fina aqui -->
-  <img src="[ INSERIR LINK DE UMA BARRA DIVISÓRIA AQUI ]" width="400">
+  <img src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png" width="400">
 </div>
 
 <br>
 
 ### ~ Sobre a minha jornada
-[ INSERIR TEXTO AQUI: Escreva um parágrafo breve e acolhedor sobre quem você é, o que estuda (como Ciência da Computação na Mauá) e quais são seus principais interesses na tecnologia. ]
+Sou o Alex Pietro. Minha história com a tecnologia começou na ETEC, onde me formei como Técnico em Desenvolvimento de Sistemas e descobri o quanto amo dar vida às ideias através da lógica. Atualmente, estou vivendo um novo e empolgante capítulo da minha formação como estudante de Ciência da Computação no Instituto Mauá de Tecnologia.
+
+No meu dia a dia, gosto de transitar por diferentes mundos. Tenho muita facilidade com o ecossistema web moderno (utilizando Vue.js, Node.js e Tailwind), mas meu verdadeiro brilho nos olhos está em explorar o desenvolvimento de sistemas de baixo nível, arquiteturas seguras com Rust, e dominar os ambientes Linux, em especial o Arch. 
+
+Quando não estou no terminal codificando, é muito provável que você me encontre gerenciando pequenos servidores de jogos, criando scripts, experimentando novas lógicas com Arduino ou aproveitando uma boa e imersiva sessão de RPG de mesa. 
+
+Acredito muito em escrever um código limpo, organizado e feito com cuidado.
 
 <br>
 
