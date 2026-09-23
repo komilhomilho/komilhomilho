@@ -4,7 +4,7 @@
     src="https://avatars.githubusercontent.com/u/134953040?v=4"
     width="130"
     height="130"
-    style="border-radius: 50%;"
+    style="border-radius: 100%;"
     alt="Profile Picture"
   />
 
