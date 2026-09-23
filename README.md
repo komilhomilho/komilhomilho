@@ -1,16 +1,9 @@
-<style>
-  #divisor{
-    margin: -120px auto;
-  }
-</style>
-
 <div align="center">
 
   <img
     src="https://avatars.githubusercontent.com/u/134953040?v=4"
     width="130"
     height="130"
-    style="border-radius: 100%;"
     alt="Profile Picture"
   />
 
@@ -18,15 +11,20 @@
 
   <p><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
 
-  <img
-    id ="divisor"
-    src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png"
-    width="50%"
-    height= "100px"
-    alt="Divisor decorativo"
-  />
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png"
+          width="400"
+          alt="Divisor decorativo"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
 <br>
