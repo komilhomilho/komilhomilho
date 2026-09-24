@@ -1,13 +1,8 @@
 <div align="center">
   <h1>Olá, bem-vindo(a) ao meu espaço ♡</h1>
-
-  <p><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
-
-
-   ![Divisor](https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png)
+  <p style="margin-bottom: 5px;"><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
+  <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png" alt="Divisor" width="400">
 </div>
-
-
 
 <br>
 
