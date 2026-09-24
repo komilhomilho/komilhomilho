@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="margin: 0; padding: 0;">Olá, bem-vindo(a) ao meu espaço ♡</h1>
   <p style="margin: 5px 0 0 0; padding: 0;"><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza.</i></p>
-  <img src="https://githubusercontent.com" alt="Divisor" style="margin-top: -10px; display: block;">
+  <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png" alt="Divisor" style="margin-top: -10px; display: block;">
 </div>
 
 
