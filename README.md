@@ -26,7 +26,6 @@ Acredito muito em escrever um código limpo, organizado e feito com cuidado.
   <img src="https://img.shields.io/badge/Rust-523f4b?style=flat-square&logo=rust&logoColor=e6d9e0" alt="Rust">
   <img src="https://img.shields.io/badge/C%23-523f4b?style=flat-square&logo=csharp&logoColor=e6d9e0" alt="C#">
   <img src="https://img.shields.io/badge/Arch_Linux-394254?style=flat-square&logo=archlinux&logoColor=e6d9e0" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Arduino-394254?style=flat-square&logo=arduino&logoColor=e6d9e0" alt="Arduino">
 </div>
 
 <br>
