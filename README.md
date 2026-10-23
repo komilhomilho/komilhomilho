@@ -54,10 +54,10 @@ Sinta-se à vontade para explorar meus repositórios ou me mandar uma mensagem p
 
 <div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/alexPietro">
     <img src="https://img.shields.io/badge/LinkedIn-394254?style=flat-square&logo=linkedin&logoColor=e6d9e0" alt="LinkedIn">
   </a> &nbsp; ~ &nbsp;
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:alexpietro.public@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-523f4b?style=flat-square&logo=gmail&logoColor=e6d9e0" alt="Email">
   </a>
 </div>
