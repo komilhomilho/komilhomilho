@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Olá, bem-vindo(a) ao meu espaço ♡</h1>
   <p style="margin-bottom: 5px;"><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza. ☾⋆⁺₊</i></p>
-  <hr style="border: none; height: 3px; background-color: #3b82f6;">
+  <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/%E2%80%94Pngtree%E2%80%94pink%20love%20exquisite%20pattern%20dividing_3780525.png" alt="Divisor" width="500">
+</div>
+
 <br>
 
 ### ✦ Sobre a minha jornada
