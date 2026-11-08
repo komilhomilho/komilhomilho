@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>Olá, bem-vindo(a) ao meu espaço ♡</h1>
-  <p style="margin-bottom: 5px;"><i>Desenvolvendo soluções com dedicação, organização e um toque de delicadeza. ☾⋆⁺₊</i></p>
-  <hr style="border: none; height: 3px; background-color: #3b82f6;">
+  <img src="https://raw.githubusercontent.com/komilhomilho/Imagens/refs/heads/main/Ol%C3%A1%2C%20bem-vindo(a)%20ao%20meu%20espa%C3%A7o%20%E2%99%A1.gif" width="100%"/>
+</div>
 <br>
+
+
 
 ### ✦ Sobre a minha jornada
 Sou o Alex Pietro. Minha história com a tecnologia começou na ETEC, onde me formei como Técnico em Desenvolvimento de Sistemas e descobri o quanto amo dar vida às ideias através da lógica. Atualmente, estou vivendo um novo e empolgante capítulo da minha formação como estudante de Ciência da Computação no Instituto Mauá de Tecnologia.
